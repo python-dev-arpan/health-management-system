@@ -1,4 +1,4 @@
-# health_management_system
+# health-management-system
 A fairly simple project for logging your food and exercise inputs.
 
 ## How to use
